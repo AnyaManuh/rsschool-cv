@@ -21,4 +21,4 @@ I'm a student of BSU. I study at the Faculty of Applied Math and Computer Scienc
 My English level is B1. I have studied it with a tutor. I have had speaking practice during various social forums abroad when I was at school.<h4>
 
 ####**Code examples**
-[Tasks within the course on the discipline "Operating systems"](https://github.com/AnyaManuh/OS-labs.git)<h4>
+[Tasks within the course on the discipline "Operating systems".](https://github.com/AnyaManuh/OS-labs.git)<h4>
