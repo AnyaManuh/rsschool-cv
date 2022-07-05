@@ -1,12 +1,13 @@
 <h1>Manuh Anna<h1>
 <h4>[My photo in git](https://avatars.githubusercontent.com/u/106826478?v=4)<h4>
 
-<h4>*My email:* anya.man2410@gmail.com<h4>
+<h4>*My email:* anya.man2410@gmail.com
 *My telegram id:* @aanechkaaam<h4>
 
-**About me**<h3>
 
-I'm a student who's going to get knowledge in front-end during the EPAM's course. I want to become a professional programmer in the future so I try myself in some new fields. I'm a determined person, passionate about work I'm interested in, quik-witted. I think that my meticulousness gives advantages when it comes to serious jobs. I'm quite communicative and never have difficulties in interaction with people.<h4> 
+<h4>**About me**<h4>
+
+<h3>I'm a student who's going to get knowledge in front-end during the EPAM's course. I want to become a professional programmer in the future so I try myself in some new fields. I'm a determined person, passionate about work I'm interested in, quik-witted. I think that my meticulousness gives advantages when it comes to serious jobs. I'm quite communicative and never have difficulties in interaction with people.<h3> 
 
 **My skills**<h3>
 
