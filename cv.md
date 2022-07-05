@@ -1,9 +1,9 @@
-<h1>Manuh Anna
+# Manuh Anna
 
-<h4>![My photo in git](https://avatars.githubusercontent.com/u/106826478?v=4)
+#### ![My photo in git](https://avatars.githubusercontent.com/u/106826478?v=4)
 
-<h4>*My email:* anya.man2410@gmail.com
-<h4>*My telegram id:* @aanechkaaam
+#### *My email:* anya.man2410@gmail.com
+#### *My telegram id:* @aanechkaaam
 ***
 
 <h3>**About me**
