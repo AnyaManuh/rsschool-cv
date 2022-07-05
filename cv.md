@@ -1,24 +1,24 @@
-##Manuh Anna
-[My photo in git](https://avatars.githubusercontent.com/u/106826478?v=4)
+##Manuh Anna<h2>
+##[My photo in git](https://avatars.githubusercontent.com/u/106826478?v=4)<h2>
 
-*My email:* anya.man2410@gmail.com
-*My telegram id:* @aanechkaaam 
+###*My email:* anya.man2410@gmail.com<h3>
+###*My telegram id:* @aanechkaaam<h3>
 
-**About me**
-I'm a student who's going to get knowledge in front-end during the EPAM's course. I want to become a professional programmer in the future so I try myself in some new fields. I'm a determined person, passionate about work I'm interested in, quik-witted. I think that my meticulousness gives advantages when it comes to serious jobs. I'm quite communicative and never have difficulties in interaction with people.  
+####**About me**<h4>
+####I'm a student who's going to get knowledge in front-end during the EPAM's course. I want to become a professional programmer in the future so I try myself in some new fields. I'm a determined person, passionate about work I'm interested in, quik-witted. I think that my meticulousness gives advantages when it comes to serious jobs. I'm quite communicative and never have difficulties in interaction with people.<h4> 
 
-**My skills**
-I've studied C++ and Java in theory and practice at university. I have academic math knowledge. Now I'm studying front-end and git.
+####**My skills**<h4>
+####I've studied C++ and Java in theory and practice at university. I have academic math knowledge. Now I'm studying front-end and git.<h4>
 
-**My work experince**
+####**My work experince**
 I have no any work experince yet. But have done some projects at uni.
-*(look for examplws below)*
+*(look for examplws below)*<h4>
 
-**My education**
-I'm a student of BSU. I study at the Faculty of Applied Math and Computer Science. RS school front-end course is my first one.
+####**My education**
+I'm a student of BSU. I study at the Faculty of Applied Math and Computer Science. RS school front-end course is my first one.<h4>
 
-**My languge skills**
-My English level is B1. I have studied it with a tutor. I have had speaking practice during various social forums abroad when I was at school.
+####**My languge skills**
+My English level is B1. I have studied it with a tutor. I have had speaking practice during various social forums abroad when I was at school.<h4>
 
-**Code examples**
-[Tasks within the course on the discipline "Operating systems"](https://github.com/AnyaManuh/OS-labs.git)
+####**Code examples**
+[Tasks within the course on the discipline "Operating systems"](https://github.com/AnyaManuh/OS-labs.git)<h4>
