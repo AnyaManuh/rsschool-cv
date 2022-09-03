@@ -1,0 +1,161 @@
+*
+{
+    box-sizing: border-box;
+}
+
+
+body
+{
+    width:300%;
+    height:200%;
+    position:fixed;
+    overflow:hidden;
+    font-family: 'Montserrat', sans-serif;
+    max-height:max-content;
+    margin: 0; 
+    padding: 0;
+    justify-content: space-between;
+    background-color: white;
+}
+
+
+header
+{
+    width: 300%;
+    height: 100px;
+    top:-10px;
+    background-color: #B80B15;
+}
+
+
+
+footer
+{
+    position: relative;
+    top: 630px;
+    height: 80px;
+    margin-top: -80px;
+    background-color: #B80B15;
+}
+
+.top
+{
+    max-width: 1440px;
+    margin: 0;
+    position:relative;
+}
+
+.nav-list
+{
+    position: relative;
+    top: 45px;
+    color:#FFF7E2;
+    font-weight: 700;
+}
+
+.nav-list 
+{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    margin-left:   100px;
+  }
+
+  .info1
+  {
+    float:left;
+    width:500px;
+    position: relative;
+    left: 138px;
+    top:50px;
+  }
+
+  #summary
+  {
+    background-color: #FFF7E2;
+  }
+
+  .titles
+  {
+    color:#268787;
+    font-weight: 900;
+    font-size: 26px;
+  }
+
+  .text
+  {
+    font-family: 'Times New Roman';
+    position:relative;
+    bottom: 20px;
+    right:10px;
+    font-size: 17px;
+    font-weight: 550;
+    padding: 10px;
+  }
+
+  .info2
+  {
+    float:left;
+    width:500px;
+    position: relative;
+    left: 138px;
+    top:50px;
+  }
+
+
+  .info3
+  {
+    float:left;
+    width:400px;
+    position: relative;
+    left: 150px;
+    top:50px;
+  }
+
+  #contacts
+  {
+    position: relative;
+    top:18px;
+  }
+  
+  #contactinfo
+  {
+    background-color: #FFF7E2;
+  }
+  li:hover
+  {color:#b0a280;}
+
+  #bold
+  {
+    color:#268787;
+    font-weight: 900;
+    font-size: 26px;
+  }
+
+.name
+{
+  font-size: 36px;
+  font-weight: 700;
+  font-variant: small-caps;
+  position: relative;
+  bottom:20px;
+  left:26px;
+  color:#268787;
+}
+ 
+.link
+{
+  font-family:'Times New Roman';
+  color:#B80B15;
+  font-weight: 600;
+  text-decoration: none;
+  transition: color s;
+}
+
+.link:hover
+{
+  color:#268787;
+}
+
